@@ -1,0 +1,5 @@
+project: rnshah9/mayhem-ttygif
+target: ttygif
+
+cmds:
+  - cmd: /repo/ttygif @@
