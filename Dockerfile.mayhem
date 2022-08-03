@@ -9,4 +9,5 @@ RUN make -j8
 RUN make install PREFIX=/install
 
 FROM ubuntu:20.04 as package
+ENV WINDOWID=23068679
 COPY --from=builder /install /install
