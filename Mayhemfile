@@ -2,4 +2,4 @@ project: ttygif
 target: ttygif
 
 cmds:
-  - cmd: /repo/ttygif @@
+  - cmd: /install/bin/ttygif @@
